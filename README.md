@@ -29,10 +29,11 @@ Looking at the breadth of data provided by Citi Bike one can examine if a bike-s
 * Bike repair is inevitable and can be planned based on the bikes used the most. 
 ![repair.png](images/repair.png)
 
-* The full Citi Bike data gives a complete picture
+* The full Citi Bike dashboard can be viewed on Tableau.
 [link to dashboard](https://public.tableau.com/app/profile/miranda.wylie/viz/CitiBike_Challenge_16232896026870/NYCCitiBikeAug2019)
 ![dashboard.png](images/dashboard.png)
 
+* The Citi Bike can also be viewed on Tableau in story form.
 ![datastory.png](images/datastory.png)
 [link to data story](https://public.tableau.com/app/profile/miranda.wylie/viz/CitiBike_Challenge_16232896026870/NYCCitBikeStory)
 
