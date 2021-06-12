@@ -34,8 +34,8 @@ Looking at the breadth of data provided by Citi Bike one can examine if a bike-s
 ![dashboard.png](images/dashboard.png)
 
 * The Citi Bike can also be viewed on Tableau in story form.
-![datastory.png](images/datastory.png)
 [link to data story](https://public.tableau.com/app/profile/miranda.wylie/viz/CitiBike_Challenge_16232896026870/NYCCitBikeStory)
+![datastory.png](images/datastory.png)
 
 ## Summary
 A ride-sharing program like Citi Bike is a great offering for a community. With 2,344,224 bike rides in August there is much data to analyze. Most Citi Bike trips are short, less than one hour. The Citi Bike data shows that bike sharing is used for commuters and those looking for some weekend fun. Subscribers are the main business model. When looking at subscriber rate and duration of use, men tend to use the program more. Having a bike repair plan is a must especially for the bikes used in the most popular areas.
