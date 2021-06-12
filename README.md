@@ -1,4 +1,4 @@
-# Biking Share with NYC Citi Bike August 2019
+# Bike Share with NYC Citi Bike August 2019
 
 ## Overview
 Citi Bike is the nation's largest bike share program, with 20,000 bikes and over 1,300 stations across Manhattan, Brooklyn, Queens, the Bronx and Jersey City. It was designed for quick trips with convenience in mind, and it’s a fun and affordable way to get around town.
@@ -6,30 +6,30 @@ Citi Bike is the nation's largest bike share program, with 20,000 bikes and over
 Looking at the breadth of data provided by Citi Bike one can examine if a bike-sharing program in another city is a solid business proposal. Cit Bike data can examine how many people use Citi Bike, when they ride, how far do they go, what is the gender breakdown of bike use and what days of the week are most rides taken on?
 
 ## Results
-With the Citi Bike data from August, the most popular month, the following was gathered.
+### With the Citi Bike data from August, the most popular month, the following was gathered.
 
-60 min or less is the length of time that bikes are checked out for all riders.
+* 60 min or less is the length of time that bikes are checked out for all riders.
 ![checkouttimes_allusers.png](images/checkouttimes_allusers.png)
 
-Men check out bikes the longest.
+* Men check out bikes the longest.
 ![checkouttimes_bygender.png](images/checkouttimes_bygender.png)
 
-Men use Citi Bike more than women.
+* Men use Citi Bike more than women.
 ![genderbreakdown.png](images/genderbreakdown.png)
 
-Monday, Tuesday, Thursday are the most popular days
+* Monday, Tuesday, Thursday are the most popular days
 ![trips_byweekday.png](images/trips_byweekday.png)
 
-No matter the gender identity the popular ride times are the same.
+* No matter the gender identity the popular ride times are the same.
 ![trips_byweekday_bygender.png](images/trips_byweekday_bygender.png)
 
-Subscribers ride the bikes more, with male subscribers riding the most on Thursday.
-![trips_bycustomers.png](images/trips_bycustomers.png)
+* Subscribers ride the bikes more, with male subscribers riding the most on Thursday.
+![trips_bycustomer.png](images/trips_bycustomer.png)
 
-Bike repair is inevitable and can be planned based on the bikes used the most. 
+* Bike repair is inevitable and can be planned based on the bikes used the most. 
 ![repair.png](images/repair.png)
 
-The full Citi Bike data gives a complete picture
+* The full Citi Bike data gives a complete picture
 [link to dashboard](https://public.tableau.com/app/profile/miranda.wylie/viz/CitiBike_Challenge_16232896026870/NYCCitiBikeAug2019)
 ![dashboard.png](images/dashboard.png)
 
