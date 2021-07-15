@@ -28,11 +28,11 @@ Looking at the breadth of data provided by Citi Bike one can examine if a bike-s
 * 60 min or less is the length of time that bikes are checked out for all riders.
 ![checkouttimes_allusers.png](images/checkouttimes_allusers.png)
 
-* No matter the gender identity the popular ride times are the same.
-![trips_byweekday_bygender.png](images/trips_byweekday_bygender.png)
-
 * Subscribers ride the bikes more, with male subscribers riding the most on Thursday.
 ![trips_bycustomer.png](images/trips_bycustomer.png)
+
+* No matter the gender identity the popular ride times are the same.
+![trips_byweekday_bygender.png](images/trips_byweekday_bygender.png)
 
 * The Citi Bike can also be viewed on Tableau in story form.
 [link to data story](https://public.tableau.com/app/profile/miranda.wylie/viz/CitiBike_Challenge_16232896026870/NYCCitBikeStory)
