@@ -8,30 +8,31 @@ Looking at the breadth of data provided by Citi Bike one can examine if a bike-s
 ## Results
 ### With the Citi Bike data from August, the most popular month, the following was gathered.
 
-* 60 min or less is the length of time that bikes are checked out for all riders.
-![checkouttimes_allusers.png](images/checkouttimes_allusers.png)
+* The full Citi Bike dashboard can be viewed on Tableau.
+[link to dashboard](https://public.tableau.com/app/profile/miranda.wylie/viz/CitiBike_Challenge_16232896026870/NYCCitiBikeAug2019)
+![dashboard.png](images/dashboard.png)
+
+* Monday, Tuesday, Thursday are the most popular days
+![trips_byweekday.png](images/trips_byweekday.png)
 
 * Men check out bikes the longest.
 ![checkouttimes_bygender.png](images/checkouttimes_bygender.png)
 
+* Bike repair is inevitable and can be planned based on the bikes used the most. 
+![repair.png](images/repair.png)
+
+
 * Men use Citi Bike more than women.
 ![genderbreakdown.png](images/genderbreakdown.png)
 
-* Monday, Tuesday, Thursday are the most popular days
-![trips_byweekday.png](images/trips_byweekday.png)
+* 60 min or less is the length of time that bikes are checked out for all riders.
+![checkouttimes_allusers.png](images/checkouttimes_allusers.png)
 
 * No matter the gender identity the popular ride times are the same.
 ![trips_byweekday_bygender.png](images/trips_byweekday_bygender.png)
 
 * Subscribers ride the bikes more, with male subscribers riding the most on Thursday.
 ![trips_bycustomer.png](images/trips_bycustomer.png)
-
-* Bike repair is inevitable and can be planned based on the bikes used the most. 
-![repair.png](images/repair.png)
-
-* The full Citi Bike dashboard can be viewed on Tableau.
-[link to dashboard](https://public.tableau.com/app/profile/miranda.wylie/viz/CitiBike_Challenge_16232896026870/NYCCitiBikeAug2019)
-![dashboard.png](images/dashboard.png)
 
 * The Citi Bike can also be viewed on Tableau in story form.
 [link to data story](https://public.tableau.com/app/profile/miranda.wylie/viz/CitiBike_Challenge_16232896026870/NYCCitBikeStory)
