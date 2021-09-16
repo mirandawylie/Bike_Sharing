@@ -10,7 +10,6 @@ Looking at the breadth of data provided by Citi Bike one can examine if a bike-s
 
 * The full Citi Bike dashboard can be viewed on Tableau.
 [link to dashboard](https://public.tableau.com/views/NYCBikeSharing_16318093809900/NYCCitBikeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-![dashboard.png](images/dashboard.png)
 
 * Monday, Tuesday, Thursday are the most popular days
 ![trips_byweekday.png](images/trips_byweekday.png)
